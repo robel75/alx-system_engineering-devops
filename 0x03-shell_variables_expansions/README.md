@@ -1,0 +1,1 @@
+the 0-alias file changes the ls command to a rm * command
